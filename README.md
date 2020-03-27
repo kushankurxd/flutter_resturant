@@ -12,7 +12,7 @@ A new Flutter UI/UX for resturant food delivery.
 ![Screenshot_20200327-202502](https://user-images.githubusercontent.com/37204706/77769953-88ab6680-706a-11ea-975b-c7cc305a6801.jpg)
 ![Screenshot_20200327-202526](https://user-images.githubusercontent.com/37204706/77769955-8943fd00-706a-11ea-9095-386394e39818.jpg)
 
-#### Inspired from : Swiggy,Zomato,Dominos etc
+#### Inspired from : Swiggy, Zomato, Dominos etc
 
 
 ## Getting Started
