@@ -1,6 +1,6 @@
 # flutterresturant
 
-A new Flutter UI/UX for resturant food delivery.
+A new Flutter UI/UX for restaurant  food delivery.
 
 #### GIF
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/37204706/77772276-dd9cac00-706d-11ea-82af-d36aa7f0d0d6.gif)
